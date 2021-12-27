@@ -1,3 +1,28 @@
 {
-
+  "users": [
+    {
+      "id": 1,
+      "fristname": "Ahmed",
+      "lastname": "Fakhry",
+      "email": "ahmed@gmail.com",
+      "password": "ahmed123",
+      "phone": "01012417654"
+    },
+    {
+      "fname": "menna",
+      "lname": "fakhry",
+      "email": "menaa@gmail.com",
+      "password": "menaa1212",
+      "phone": "01012417654",
+      "id": 2
+    },
+    {
+      "fname": "kamal",
+      "lname": "mohamed",
+      "email": "kamal@gmail.com",
+      "password": "kamal123",
+      "phone": "01221711613",
+      "id": 3
+    }
+  ]
 }
